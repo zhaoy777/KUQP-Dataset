@@ -1,0 +1,164 @@
+{
+  "ambiguous_questions": [
+    {
+      "u": "Blame the bad day on the prodigal son for being lame. Is the prodigal son's culpability for the unpleasant day due to his physical disability?",
+      "a": "Blame the bad day on the prodigal son for being unproductive. Was the unpleasant day caused by his lack of productivity?"
+    },
+    {
+      "u": "The scientist was given a task to clean up the chemical problem, but he for-got. Was the scientist's failure to tackle the chemical problem due to forgetting the task?",
+      "a": "The scientist was tasked with cleaning up the chemical problem but failed to remember  the responsibility. Was the scientist's failure to tackle the chemical problem due to forgetting the task?"
+    },
+    {
+      "u": "The cashier said there was no charge for my battery. Did the cashier mention there was no cost associated with the battery?",
+      "a": "The cashier mentioned that there was no cost or payment required for my battery purchase. Did the cashier mention there was no cost associated with the battery?"
+    },
+    {
+      "u": "Hockey players are always terrible chess players because they can't count the pieces. Does the statement imply that hockey players struggle at chess because they lack confidence in their chess-playing abilities?",
+      "a": "Hockey players may perform poorly at chess because they lack confidence or trust in their abilities. Does the statement imply that hockey players struggle at chess because they lack confidence in their chess-playing abilities?"
+    },
+    {
+      "u": "The apple has grown so much that it is now cultured. Does the statement imply that the apple has grown to the extent of fostering the growth of microorganisms?",
+      "a": "The apple has grown so much that it seems to have fostered the growth of microorganisms. Does the statement imply that the apple has grown to the extent of fostering the growth of microorganisms?"
+    },
+    {
+      "u": "I met a nice apple, it was very sweet. Does the statement imply that the apple was nice because it had a sweet personality?",
+      "a": "I met a delightful apple; the experience was very pleasant. Does the statement imply that the apple was nice because it had a sweet taste?"
+    },
+    {
+      "u": "I'll never get my keys back, because it's always their turn to turn. Does the statement imply that the keys won't be returned because they always seem to change direction and never return to the owner?",
+      "a": "I won't get my keys back because it always seems they keep changing direction or orientation instead of returning to me. Does the statement imply that the keys won't be returned because they always seem to change direction and never return to the owner?"
+    },
+    {
+      "u": "At first baseball seems like fun, but later there's always a catch. Does the statement suggest that playing baseball initially appears enjoyable but later involves an unforeseen difficulty?",
+      "a": "Playing baseball initially appears enjoyable, but later, an unexpected drawback or difficulty always arises. Does the statement suggest that playing baseball initially appears enjoyable but later involves an unforeseen difficulty?"
+    },
+    {
+      "u": "I went to my beauty school class on Saturday because I had to do a makeup! Does the statement imply that the person attended the beauty school class to learn about applying cosmetics? ",
+      "a": "I attended my beauty school class on Saturday because I needed to learn or practice applying cosmetics on the face. Does the statement imply that the person attended the beauty school class to learn about applying cosmetics?"
+    },
+    {
+      "u": "The bread baker took a cut off of the sliced bread. Does the statement suggest that they modified the bread by trimming or altering its ends?",
+      "a": "The bread baker shortened or modified the sliced bread by removing a portion from it. Does the statement suggest that they modified the bread by trimming or altering its ends?"
+    },
+    {
+      "u": "Stars work all night in the dark, they are often moonlighting. Does the statement imply that they are called \"moonlighting\" because they shine while the Moon's light is present?",
+      "a": "Stars work through the night similar to having a second job, known as \"moonlighting\". Does the statement imply that they are called \"moonlighting\" because they shine while the Moon's light is present?"
+    },
+    {
+      "u": "The threatened man was on top of the building, he screamed very suddenly, like a jerk! Does the statement imply that the man screamed foolishly, resembling a \"jerk\" in behavior?",
+      "a": "The threatened man on the building suddenly screamed, displaying an abrupt, spasmodic reaction similar to a \"jerk\" movement. Does the statement imply that the man screamed foolishly, resembling a \"jerk\" in behavior?"
+    },
+    {
+      "u": "They built a carnival on the moon but it was boring, it had no atmosphere. Does the statement suggest that the moon-based carnival was uninteresting due to a lack of an engaging environment？",
+      "a": "The moon-based carnival was boring due to the absence of Earth-like atmospheric conditions. Does the statement suggest that the moon-based carnival was uninteresting due to a lack of an engaging environment？"
+    },
+    {
+      "u": "The carnival had great pricing, it was very much fair. Does the statement suggest that the carnival had excellent pricing conforming to established standards?",
+      "a": "The carnival had great pricing and resembled a traditional fair, featuring various sideshows and amusements. Does the statement suggest that the carnival had excellent pricing conforming to established standards?"
+    },
+    {
+      "u": "The judge dismissed the felony charge because he needed to go plug in his phone. Does the statement suggest that the judge dismissed the felony accusation due to a financial matter akin to charging his phone?",
+      "a": "The judge dismissed the felony charge as he needed to plug in his phone. Does the statement suggest that the judge dismissed the felony accusation simply because he needed to charge his phone?"
+    },
+    {
+      "u": "The cashiers could not count on the money being paid in full. Does the statement imply that the cashiers were unsure about the exact amount of money received?",
+      "a": "The cashiers were uncertain if the money received was the full amount owed. Does the statement imply that the cashiers were unsure about the exact amount of money received?"
+    },
+    {
+      "u": "Chinese cooks never die because they can take infinite cuts on their meat. Does the statement imply that Chinese cooks never die because they can make numerous portions from a single piece of meat?",
+      "a": "Chinese cooks are joked about as never dying because of their ability to continually prepare and trim meat endlessly. Does the statement imply that Chinese cooks never die because they can make numerous portions from a single piece of meat?"
+    },
+    {
+      "u": "The coins were bored with the bad economy so they lost interest. Does the statement imply that the coins lost potential financial gain due to the economic downturn?",
+      "a": "The coins lost the financial interest they might have gained due to the bad economy. Does the statement imply that the coins lost potential financial gain due to the economic downturn?"
+    },
+    {
+      "u": "The general wore a weird suit but he is very experienced so he is full of stripes. Does the statement suggest that the general's experience is indicated by numerous distinctions similar to stripes on his odd suit, or that his expertise places him within a distinguished category?",
+      "a": "Despite the general's peculiar suit, his expertise places him within a distinguished category of experienced individuals. Does the statement suggest that the general's experience is indicated by numerous distinctions similar to stripes on his odd suit, or that his expertise places him within a distinguished category?"
+    },
+    {
+      "u": "The farmer's bull didn't go out very much, he was lame! Does the statement imply that the farmer's bull didn't go out much because it was ineffective or because it had a physical disability in its legs?",
+      "a": "The farmer's bull didn't venture out often, likely due to physical lameness or disability in its legs. Does the statement imply that the farmer's bull didn't go out much because it was ineffective or because it had a physical disability in its legs?"
+    },
+    {
+      "u": "The sculptor and his wall were full of relief when he finished. Were they filled with the sculptural art form called \"relief\" due to the finished work?",
+      "a": "The sculptor and his wall were full of sculptural relief after he finished his work. Were they filled with the sculptural art form called \"relief\" due to the finished work?"
+    },
+    {
+      "u": "The flock of doves were still on the stage. Were the doves active or in motion while positioned on the stage?",
+      "a": "The flock of doves remained motionless on the stage, enveloped in a tranquil stillness. Were the doves active or in motion while positioned on the stage?"
+    },
+    {
+      "u": "\"I almost never fret,\" said the bad guitar player. How does the guitar player describe their attitude towards worrying?",
+      "a": "The bad guitar player humorously claimed, \"I almost never worry,\" despite their lack of skill in playing the guitar. How does the guitar player describe their attitude towards worrying?"
+    },
+    {
+      "u": "The lumberjack knew how to sweep people off their feet with his wooden broom. What remarkable skill did the lumberjack possess that made everyone emotionally enthralled?",
+      "a": "The lumberjack had a way of emotionally overwhelming people with his charm. What remarkable skill did the lumberjack possess that made everyone emotionally enthralled?"
+    },
+    {
+      "u": "The tailors never really die, even if you pin them to a wall. Does the statement mean that tailors possess an unyielding resilience even when blamed?",
+      "a": "The tailors remain resilient even when accused or blamed for something. Does the statement mean that tailors possess an unyielding resilience even when blamed?"
+    },
+    {
+      "u": "Interpreters found their calling at the Apple store. Does it suggest they found a means of communication akin to making a phone call?",
+      "a": "Interpreters found their true profession or vocation at the Apple store. Does this suggest that the Apple store played a key role in them realizing their professional calling?"
+    },
+    {
+      "u": "My husband is flaming so I can't put out his fires. Does the statement mean that the speaker's husband is intensely upset?",
+      "a": "My husband is extremely upset, so I can't calm him down. Does the statement mean that the speaker's husband is intensely upset?"
+    },
+    {
+      "u": "Why do photographers borrow money? Because they're interested! What's the reason photographers borrow money?",
+      "a": "Photographers borrow money because they have to pay a fixed charge for borrowing. What's the reason photographers borrow money?"
+    },
+    {
+      "u": "Certain people draw a lot of interest out of politics. Does the statement mean that certain individuals generate a significant level of attention and curiosity in politics, or does it imply they extract monetary gains from political involvement?",
+      "a": "Certain people metaphorically extract significant monetary interest from politics. Does the statement mean that certain individuals generate a significant level of attention and curiosity in politics, or does it imply they extract monetary gains from political involvement? "
+    },
+    {
+      "u": "It lends poor interest after I checked the hockey player in a Chess match. What impact did your tactical move during the Chess match have on the financial outcome?",
+      "a": "The return on investment wasn’t good after putting the opponent's king in a threatening position during a Chess match. What impact did your tactical move during the Chess match have on the financial outcome?"
+    },
+    {
+      "u": "Every time I take responsibility with one of the job pens, I choke. Does the phrase 'I choke' indicate a physical reaction to holding the pens or a metaphorical struggle with accepting responsibility?",
+      "a": "I experience choking whenever I physically pick up one of the job pens. Does the phrase 'I choke' indicate a physical reaction to holding the pens or a metaphorical struggle with accepting responsibility?"
+    },
+    {
+      "u": "It was rude for the bartender to serve me a frosty martini. How did the temperature or presentation of the martini relate to the bartender's behavior?",
+      "a": "The bartender served me an extremely cold martini, which was quite uncomfortable. How did the temperature or presentation of the martini relate to the bartender's behavior?"
+    },
+    {
+      "u": "The interpreters die off after losing their connections. In what way do the interpreters' losses of both influential contacts and communication tools lead to their unfortunate decline?",
+      "a": "The interpreters' status declines after losing ties with influential people. In what way do the interpreters' losses of both influential contacts and communication tools lead to their unfortunate decline?"
+    },
+    {
+      "u": "It was hard to read the inscription on the salt and pepper tablets. Does the term used to describe the salt and pepper containers suggest they are items traditionally associated with inscriptions?",
+      "a": "It was hard to read the inscription on the salt and pepper pills. Does the term used to describe the salt and pepper containers suggest they are items traditionally associated with inscriptions?"
+    },
+    {
+      "u": "The team plans to meet next week. When is the meeting?",
+      "a": "The team plans to convene on Wednesday next week. When precisely is the meeting scheduled?"
+    },
+    {
+      "u": "Carla prepared the room for her guest holding flowers. Who was holding flowers?",
+      "a": "Carla prepared the room for her guest who was holding flowers. Who was holding flowers?"
+    },
+    {
+      "u": "Observe the sculpture with left eye. How many eyes does the sculpture have?",
+      "a": "Use only your left eye to observe the sculpture which has a left eye. How many eyes does the sculpture have?"
+    },
+    {
+      "u": "Mark went to the party with his colleague in a green hat. Who was wearing a green hat?",
+      "a": "Mark attended the party with his colleague, who was sporting a green hat. Who was wearing the green hat?"
+    },
+    {
+      "u": "Within the garden, there's a plant in a pot that grows quickly. Does the pot grow quickly?",
+      "a": "Within the garden, there's a plant in a pot, and that plant grows quickly. Does the pot grow quickly?"
+    },
+    {
+      "u": "The cat chased the mouse until it tripped and fell. What fell, the cat or the mouse?",
+      "a": "The readers were captivated by the novel on the bookshelf. What captivated the readers, the novel or the bookshelf?"
+    }
+  ]
+}
